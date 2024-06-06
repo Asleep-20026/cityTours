@@ -33,7 +33,7 @@
             <p>Descripción del paquete de viaje 2...</p>
         </div>
 
-        <!-- Agrega más paquetes de viaje aquí -->
+
     </div>
 
     <div class="footer">

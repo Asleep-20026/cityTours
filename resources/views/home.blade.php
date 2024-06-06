@@ -8,14 +8,12 @@
     <meta name="description" content=" landing page de turismo" />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <meta name="keywords" content="passeio de buggy, passeio turistico" />
-    <link rel="canonical" href="https://juniormelo.dev.br/lading-page2/" />
     <meta property="og:locale" content="pt_BR" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Passeios de Buggy em Natal/RN" />
-    <meta property="og:description" content="Empresa líder em passeios turísticos em Natal e região. Temos os melhores preços e o melhor serviço. Confira!" />
+    <meta property="og:description" content="Empresa líder em passeios turísticos" />
     <meta property="og:url" content="https://juniormelo.dev.br/" />
     <meta property="og:site_name" content="Passeios Buggy" />
-    <meta name="author" content="Junior Melo -+5584988147799">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
     <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
     @vite('resources/css/style.css')
